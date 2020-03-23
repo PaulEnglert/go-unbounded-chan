@@ -2,7 +2,7 @@
 
 
 [![go-mod-version](https://img.shields.io/github/go-mod/go-version/PaulEnglert/go-unbounded-chan)](https://github.com/PaulEnglert/go-unbounded-chan)
-[![version](https://img.shields.io/github/v/release/PaulEnglert/go-unbounded-chan)](https://github.com/PaulEnglert/go-unbounded-chan)
+[![tag](https://img.shields.io/github/v/tag/PaulEnglert/go-unbounded-chan)](https://github.com/PaulEnglert/go-unbounded-chan)
 
 
 
